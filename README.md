@@ -1,5 +1,9 @@
 # 📡 Digital Bio - Fadhila Lazuardi, S.T.
 
+[🚀 LIVE DEMO DISINI](https://digital-bio-ten.vercel.app)
+
+![Portfolio Preview](./public/digital-bio.png)
+
 Welcome to my personal digital biography! This project is a modern, high-performance portfolio built with **React**, **Vite**, and **Tailwind CSS**, featuring a sleek dark glassmorphism aesthetic.
 
 ## 🚀 Tech Stack
