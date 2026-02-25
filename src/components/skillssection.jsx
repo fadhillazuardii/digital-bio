@@ -19,6 +19,7 @@ const skillCategories = [
       { name: 'React.js', icon: <Cpu size={18} /> },
       { name: 'Next.js', icon: <Globe size={18} /> },
       { name: 'JavaScript', icon: <Code2 size={18} /> },
+      { name: 'TypeScript', icon: <Code2 size={18} /> },
       { name: 'TailwindCSS', icon: <Layout size={18} /> },
       { name: 'HTML/CSS', icon: <Terminal size={18} /> },
     ],
@@ -40,6 +41,7 @@ const skillCategories = [
       { name: 'Selenium', icon: <ShieldCheck size={18} /> },
       { name: 'Manual Testing', icon: <Layers size={18} /> },
       { name: 'Git', icon: <GitBranch size={18} /> },
+      { name : 'Vercel', icon: <Globe size={18} /> },
     ],
   },
 ]
