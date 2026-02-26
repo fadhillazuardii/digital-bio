@@ -12,7 +12,7 @@ const buttons = [
   { label: 'Explore My Code', icon: <Code2 size={15} />, href: '#projects' },
   { label: "Let's Connect", icon: <Mail size={15} />, href: '#contact' },
   { label: 'Professional Network', icon: <Linkedin size={15} />, href: 'https://linkedin.com/in/fadhillazuardii', external: true },
-  { label: 'Download Full CV', icon: <Download size={15} />, href: '/CV_Fadhila Lazuardi_.pdf', download: true },
+  { label: 'Download Full CV', icon: <Download size={15} />, href: '/CV_Fadhila Lazuardi.pdf', download: true },
 ]
 
 export default function HeroSection() {
