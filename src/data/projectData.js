@@ -23,7 +23,7 @@ export const projects = [
     color: "from-amber-600 to-orange-800",
     letter: "ZC",
     links: {
-      demo: "https://zona-coffee-r6dm.vercel.app/",
+      demo: "https://zona-coffee.vercel.app/",
       code: "https://github.com/fadhillazuardii/zona-coffe",
     },
   },
