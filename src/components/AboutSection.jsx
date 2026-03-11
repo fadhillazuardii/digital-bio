@@ -39,7 +39,7 @@ export default function AboutSection() {
             </div>
 
             {/* Highlights */}
-            <div className="flex flex-row md:flex-col gap-3 flex-shrink-0">
+            <div className="flex flex-wrap md:flex-col gap-3 mt-6 flex-shrink-0">
               {highlights.map((item) => (
                 <div
                   key={item.label}
